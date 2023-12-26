@@ -13,10 +13,10 @@
 Після вдалої компіляції повинні зявитися в тій самій теці однойменні файли із розширенням .class
 
 Для запуску програми використовуємо команду _java_
-**>>> java -classpath C:\..\..\JavaExam com.src.task1.Main**
+**>>> java -classpath C:\..\..\JavaExam\com\src task1.Main**
 
-*C:\..\..\JavaExam* - шлях до теки проекту JavaExam 
-*com.src.task1.Main* - шлях та пакет(визначений в коді як ```package com.src.task1;```) до кореневого файлу Main
+*C:\..\..\JavaExam\com\src* - шлях до теки проекту JavaExam 
+*task1.Main* - шлях та пакет(визначений в коді як ```package com.src.task1;```) до кореневого файлу Main
 
 Кореневий файл це файл який містить клас з функцією ```public static void main(String[] args)```
 З кореневого файлу компілятор починає читати нашу програму
@@ -26,5 +26,5 @@
 ### Приклад на основі завдання task1
 
 **>>> javac Main.java MutateText.java**
-**>>> java -classpath C:\..\..\JavaExam com.src.task1.Main**
-> замість C:\..\..\JavaExam може бути ваш шлях наприклад C:\sser\student\javaproject\JavaExam
+**>>> java -classpath C:\..\..\JavaExam\com\src task1.Main**
+> замість C:\..\..\JavaExam\com\src може бути ваш шлях наприклад C:\sser\student\javaproject\JavaExam\com\src

@@ -1,4 +1,4 @@
-package com.src.task1;
+package task1;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;

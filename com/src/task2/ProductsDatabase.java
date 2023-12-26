@@ -2,7 +2,7 @@
 кількість на складі. Також в класі повинні бути реалізовані функції додавання, видалення продукту, показу списку 
 усіх продуктів*/
 //java 20.0.1
-package com.src.task2;
+package task2;
 
 import java.util.ArrayList;
 import java.util.Scanner;

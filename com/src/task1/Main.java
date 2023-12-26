@@ -4,7 +4,7 @@
 Вихідні данні:
 (097)111-22-33*/
 //java 20.0.1
-package com.src.task1;
+package task1;
 
 
 

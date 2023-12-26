@@ -1,4 +1,4 @@
-package com.src.task3;
+package task3;
 
 import java.time.LocalDate;
 

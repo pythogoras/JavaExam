@@ -1,4 +1,4 @@
-package com.src.task2;
+package task2;
 
 
 

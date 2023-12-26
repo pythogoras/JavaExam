@@ -1,7 +1,7 @@
 /*Напишіть код для перевірки валідності дати народження у форматах: 
 дд.мм.рррр або дд/мм/бррр*/
 //java 20.0.1
-package com.src.task3;
+package task3;
 
 import java.util.Scanner;
 
